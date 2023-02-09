@@ -1,0 +1,38 @@
+body {
+    font-family: Arial sans-serif;
+    background: darkgrey url("https://www.zastavki.com/pictures/originals/2015/Backgrounds_The_Cat_in_the_glasses__gray_background_102645_.jpg");
+    color: black;
+    font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+    margin-top: 200px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 124px !important;
+    margin-left: 20px !important;
+}
+
+.align_center {
+    margin: auto;
+    display: block;
+}
+
+.indent_above {
+    margin-top: 50px;
+}
+
+.end_message {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.description {
+    font-size: 24px;
+    margin-left: 12px;
+}
+
+

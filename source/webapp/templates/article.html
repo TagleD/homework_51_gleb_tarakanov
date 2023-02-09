@@ -1,0 +1,15 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Article</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <h1>Article</h1>
+    <p>Title: {{ title }}</p>
+    <p>Text: {{ text }}</p>
+    <p>Author: {{ author }}</p>
+</body>
+</html>
